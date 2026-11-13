@@ -10,6 +10,17 @@ TORONGO is an open-source Expo / React Native prototype for making satellite-rad
 
 Demo video: https://youtu.be/8mxUWiiZur0
 
+
+
+## App tutorial 
+
+https://drive.google.com/file/d/1tsIr-KMdHZfsE7b1nRc-yfheFwkBZZO8/view?usp=sharing
+
+
+## Prototype preview
+
+Source code is in `app/`. To try it: install the Expo Go app on your phone, or follow "Run locally" below.
+
 ## What is in this repository
 
 - `app/` - Expo SDK 54 / React Native application source and original visual assets.
