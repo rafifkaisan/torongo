@@ -14,7 +14,7 @@ TORONGO is an open-source Expo / React Native prototype for making satellite-rad
 
 ## Prototype Application tutorial 
 
-https://drive.google.com/file/d/1tsIr-KMdHZfsE7b1nRc-yfheFwkBZZO8/view?usp=sharing
+https://drive.google.com/drive/folders/1mpgcI19X0850WtemMxswghjLVe2k7T-A?usp=sharing
 
 
 ## Prototype preview
