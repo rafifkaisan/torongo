@@ -6,9 +6,9 @@ TORONGO is an open-source Expo / React Native prototype for making satellite-rad
 
 > **Prototype status:** This repository contains a working user-interface prototype with live NASA service requests for observation metadata, browse imagery, and precipitation context. It does **not** yet process NISAR or Sentinel-1 raster pixels into a validated water mask, flooded-area estimate, L-band/C-band agreement score, or ground-displacement measurement. Results requiring those calculations show “No data available” rather than invented values.
 
-## Prototype preview
+## Demo Video
 
-The team supplied this viewer address for the prototype: https://torongo-prototype-viewer.ai.studio. It was not independently reachable during repository preparation; verify it in a normal browser before presenting it. This is a **demo/viewer link**, not a source repository.
+Demo video: https://youtu.be/8mxUWiiZur0
 
 ## What is in this repository
 
