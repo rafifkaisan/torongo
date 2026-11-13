@@ -19,7 +19,10 @@ https://drive.google.com/file/d/1tsIr-KMdHZfsE7b1nRc-yfheFwkBZZO8/view?usp=shari
 
 ## Prototype preview
 
-Source code is in `app/`. To try it: install the Expo Go app on your phone, or follow "Run locally" below.
+**Working prototype (Expo / React Native):**
+- Watch it running: Demo video above, and the App tutorial link above.
+- Source code: `app/` folder (also `archive/original-expo-snack-export.zip`, the original Expo Snack export).
+- Try it yourself: install the Expo Go app, then follow "Run locally" below.
 
 ## What is in this repository
 
