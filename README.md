@@ -62,13 +62,14 @@ See [`docs/DATA_SOURCES.md`](docs/DATA_SOURCES.md) for identifiers, links, exact
 
 The final product direction is consolidated into seven capabilities:
 
-1. Scene Finder
-2. Change Workbench
-3. L-band vs C-band
-4. Inspect a Location
+1. Sky Calendar 
+2. Delta
+3. Duet
+4. Spot Check
 5. Trust Ledger
 6. Evidence Brief
-7. Explain Layer
+7. AI Advisor
+8. Community Page
 
 See [`docs/FEATURES.md`](docs/FEATURES.md) and [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md). The shipped app still contains a legacy Community module and a static, rule-based Advisor. These are prototype modules, not a connected production community service or a generative-AI system.
 
