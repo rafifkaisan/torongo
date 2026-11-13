@@ -8,11 +8,11 @@ TORONGO is an open-source Expo / React Native prototype for making satellite-rad
 
 ## 240 seconds of glory
 
-Demo video: https://youtu.be/8mxUWiiZur0
+240 Seconds of Glory video: https://youtu.be/8mxUWiiZur0
 
 
 
-## App tutorial 
+## Prototype Application tutorial 
 
 https://drive.google.com/file/d/1tsIr-KMdHZfsE7b1nRc-yfheFwkBZZO8/view?usp=sharing
 
