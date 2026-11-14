@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this prototype, please cite the TORONGO team and the NASA and partner datasets listed in docs/DATA_SOURCES.md."
+title: "TORONGO: See the flood. Understand the change."
+type: software
+authors:
+  - name: "Chronos team"
+    affiliation: "Daffodil International School"
+date-released: "2026-11-13"
+license: "0BSD"

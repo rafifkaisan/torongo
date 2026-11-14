@@ -6,23 +6,9 @@ TORONGO is an open-source Expo / React Native prototype for making satellite-rad
 
 > **Prototype status:** This repository contains a working user-interface prototype with live NASA service requests for observation metadata, browse imagery, and precipitation context. It does **not** yet process NISAR or Sentinel-1 raster pixels into a validated water mask, flooded-area estimate, L-band/C-band agreement score, or ground-displacement measurement. Results requiring those calculations show “No data available” rather than invented values.
 
-## 240 seconds of glory
-
-240 Seconds of Glory video: https://youtu.be/8mxUWiiZur0
-
-
-
-## Prototype Application tutorial 
-
-https://drive.google.com/drive/folders/1mpgcI19X0850WtemMxswghjLVe2k7T-A?usp=sharing
-
-
 ## Prototype preview
 
-**Working prototype (Expo / React Native):**
-- Watch it running: Demo video above, and the App tutorial link above.
-- Source code: `app/` folder (also `archive/original-expo-snack-export.zip`, the original Expo Snack export).
-- Try it yourself: install the Expo Go app, then follow "Run locally" below.
+The team supplied this viewer address for the prototype: https://torongo-prototype-viewer.ai.studio. It was not independently reachable during repository preparation; verify it in a normal browser before presenting it. This is a **demo/viewer link**, not a source repository.
 
 ## What is in this repository
 
@@ -62,14 +48,13 @@ See [`docs/DATA_SOURCES.md`](docs/DATA_SOURCES.md) for identifiers, links, exact
 
 The final product direction is consolidated into seven capabilities:
 
-1. Sky Calendar 
-2. Delta
-3. Duet
-4. Spot Check
+1. Scene Finder
+2. Change Workbench
+3. L-band vs C-band
+4. Inspect a Location
 5. Trust Ledger
 6. Evidence Brief
-7. AI Advisor
-8. Community Page
+7. Explain Layer
 
 See [`docs/FEATURES.md`](docs/FEATURES.md) and [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md). The shipped app still contains a legacy Community module and a static, rule-based Advisor. These are prototype modules, not a connected production community service or a generative-AI system.
 
